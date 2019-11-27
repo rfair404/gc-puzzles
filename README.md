@@ -1,2 +1,2 @@
-# gc-puzzles
-Geocaching puzzles for nerds
+# Geocaching Puzzles for Nerds
+
